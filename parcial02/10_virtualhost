@@ -1,4 +1,5 @@
 # Copiar en el archivo de httpd.conf
+# https://docs.rockylinux.org/es/guides/web/apache-sites-enabled/
 
 <VirtualHost *:80>
         ServerName www.wiki.com 
